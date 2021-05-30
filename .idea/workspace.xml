@@ -10,6 +10,11 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -30,11 +35,12 @@
     <option name="BRANCH" value="dev" />
   </component>
   <component name="Git.Pull.Settings">
-    <option name="BRANCH" value="master" />
+    <option name="BRANCH" value="dev" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$" value="master" />
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
@@ -84,6 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622358363946</updated>
       <workItem from="1622358365788" duration="2266000" />
+      <workItem from="1622360660865" duration="1146000" />
     </task>
     <task id="LOCAL-00001" summary="A">
       <created>1622358441121</created>
@@ -120,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622360405491</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="FFFF">
+      <created>1622360734663</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622360734663</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,24 +162,30 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A" />
-    <option name="LAST_COMMIT_MESSAGE" value="A" />
+    <MESSAGE value="FFFF" />
+    <option name="LAST_COMMIT_MESSAGE" value="FFFF" />
   </component>
   <component name="WindowStateProjectService">
     <state x="183" y="82" key="DiffContextDialog" timestamp="1622358575145">
       <screen x="0" y="0" width="1920" height="1046" />
     </state>
     <state x="183" y="82" key="DiffContextDialog/0.0.1920.1046@0.0.1920.1046" timestamp="1622358575145" />
-    <state x="451" y="192" key="Vcs.Push.Dialog.v2" timestamp="1622360576619">
+    <state x="451" y="192" key="Vcs.Push.Dialog.v2" timestamp="1622361515265">
       <screen x="0" y="0" width="1920" height="1046" />
     </state>
-    <state x="451" y="192" key="Vcs.Push.Dialog.v2/0.0.1920.1046@0.0.1920.1046" timestamp="1622360576619" />
+    <state x="451" y="192" key="Vcs.Push.Dialog.v2/0.0.1920.1046@0.0.1920.1046" timestamp="1622361515265" />
     <state x="91" y="91" width="1738" height="864" key="dock-window-1" timestamp="1622358420246">
       <screen x="0" y="0" width="1920" height="1046" />
     </state>
     <state x="91" y="91" width="1738" height="864" key="dock-window-1/0.0.1920.1046@0.0.1920.1046" timestamp="1622358420246" />
+    <state x="661" y="168" key="git4idea.branch.GitSmartOperationDialog" timestamp="1622361146874">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="661" y="168" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1046@0.0.1920.1046" timestamp="1622361146874" />
     <state x="704" y="404" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1622360056491">
       <screen x="0" y="0" width="1920" height="1046" />
     </state>
